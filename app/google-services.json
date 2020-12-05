@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "899427600520",
+    "firebase_url": "https://geogeo-e11cb-default-rtdb.firebaseio.com",
+    "project_id": "geogeo-e11cb",
+    "storage_bucket": "geogeo-e11cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899427600520:android:fea5123781eaee68c4f73d",
+        "android_client_info": {
+          "package_name": "com.example.geogeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899427600520-qvlohvkv6u505dq04k8e0p91mtjs2443.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqXjd8ydUakqgIuSZPs3hCNviWLkFqOvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899427600520-qvlohvkv6u505dq04k8e0p91mtjs2443.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899427600520:android:7aadc1320fbc10fec4f73d",
+        "android_client_info": {
+          "package_name": "com.example.geogeo.activities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899427600520-qvlohvkv6u505dq04k8e0p91mtjs2443.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqXjd8ydUakqgIuSZPs3hCNviWLkFqOvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899427600520-qvlohvkv6u505dq04k8e0p91mtjs2443.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
